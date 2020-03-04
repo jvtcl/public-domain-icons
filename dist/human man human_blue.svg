@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   viewBox="0 0 37.207 100"
+   id="svg4581"
+   sodipodi:docname="human man human_blue.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4587">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4585" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2666"
+     inkscape:window-height="1712"
+     id="namedview4583"
+     showgrid="false"
+     inkscape:zoom="14.09"
+     inkscape:cx="18.6035"
+     inkscape:cy="50"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4581" />
+  <circle
+     cy="8.159"
+     cx="18.118"
+     r="8.159"
+     id="circle4577"
+     style="fill:#0000c8;fill-opacity:1" />
+  <path
+     d="M8.472 95.426a4.575 4.575 0 0 0 9.15 0l.004-38.374h2.037l-.013 38.374a4.575 4.575 0 0 0 9.147 0l.02-66.158h2.006v24.38c0 4.905 6.398 4.905 6.384 0v-24.9c0-5.418-3.184-10.728-9.523-10.728l-18.288-.008C3.62 18.012 0 22.722 0 28.6v25.05c0 4.868 6.433 4.868 6.433 0V29.27H8.48l-.008 66.156z"
+     id="path4579"
+     style="fill:#0000c8;fill-opacity:1" />
+</svg>
